@@ -13,8 +13,8 @@ keywords:
 
 ### Flutter EdgeIdentity 5.0.0
 
-* Update to use BOM [(Bill of Materials)](https://central.sonatype.com/artifact/com.adobe.marketing.mobile/sdk-bom) for Android SDK dependencies.
-* Update tests to handle the deprecation warning for `setMockMethodCallHandler`.
+* Updated to use BOM [(Bill of Materials)](https://central.sonatype.com/artifact/com.adobe.marketing.mobile/sdk-bom) for Android SDK dependencies.
+* Updated tests to handle the deprecation warning for `setMockMethodCallHandler`.
 
 ## February 10, 2025
 
